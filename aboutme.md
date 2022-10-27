@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I am a Frontend Developer
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Annie Xing. I am a Frontend Developer. I have been working as a Frontend Developer for 15-years on Web Development and 1-year  on Mobile Development(React Native).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- HTML5, CSS3, JavaScript, TypeScript
+- React, React Native, Redux/Redux toolkit, CSS Modules, Styled-Components, Next.js, Bootstrap, Semantic UI
+- Node.js
